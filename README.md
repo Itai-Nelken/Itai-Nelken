@@ -9,6 +9,12 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning shell script and python
 - 💬 Ask me about anything RPi related.
 - 📫 How to reach me: Discord user Itai#2696
+
+<b>Github user stats:</b><br>
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Itai-Nelken&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Itai-Nelken)](https://github.com/anuraghazra/github-readme-stats)
+-->
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
