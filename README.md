@@ -4,8 +4,9 @@
 **Itai-Nelken/Itai-Nelken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
--->
 - 🔭 I’m currently working on random RPI projects, mainly on creating a [guide](https://bit.ly/ubuntu-pi-fixes) for                           Ubuntu on RPi with fixes and apps that need a bit of tinkering to get working. and on [compiling Etcher for armhf/arm64](https://github.com/Itai-Nelken/Etcher-arm-32-64) each time a new version is out for [pi-apps](https://github.com/botspot/pi-apps/).
+-->
+- 🔭 I’m currently working on [Pi-Assistant](https://github.com/Itai-Nelken/Pi-Assistant), [qemu2deb](https://github.com/Itai-Nelken/qemu2deb-RPi), and [RPi-QEMU-VM-Scripts](https://github.com/Itai-Nelken/RPi-QEMU-VM-scripts).
 - 🌱 I’m currently learning shell script and python
 - 💬 Ask me about anything RPi related.
 - 📫 How to reach me: Discord user Itai#2696
