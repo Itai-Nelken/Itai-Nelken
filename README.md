@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 <summary> Secret terminal </summary>
 
 ### How I learnt to code (sort of)
+##### installing skills = weeks of reading and trying stuff
 ```
 $ ./Itai -p --load-brain
 loading brain...
