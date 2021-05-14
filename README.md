@@ -1,6 +1,6 @@
-### Hi there 👋 I'm an RPi hobbyist that is learning to code.
+### Hi! 👋
 
-
+My name is Itai Nelken and I'm an open-sourcerer, Linux programmer, and I love tinkering with computers, especially Linux ARM ones.
 <!--
 **Itai-Nelken/Itai-Nelken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
