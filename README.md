@@ -8,9 +8,9 @@ I like to program low level stuff, the lower the better. My favorite programming
 Here are some ideas to get you started:
 - 🔭 I’m currently working on random RPI projects, mainly on creating a [guide](https://bit.ly/ubuntu-pi-fixes) for                           Ubuntu on RPi with fixes and apps that need a bit of tinkering to get working. and on [compiling Etcher for armhf/arm64](https://github.com/Itai-Nelken/Etcher-arm-32-64) each time a new version is out for [pi-apps](https://github.com/botspot/pi-apps/).
 -->
-- 🔭 I’m currently working on new and improved versions of [VM](https://github.com/Itai-Nelken/VM) and [ish](https://github.com/Itai-Nelken/ish).
-- 🌱 I’m currently learning programming algorithms, compiler design, and [Go](https://golang.org).
-- 💬 Ask me about anything Linux, open source, and programming related (especially C and Go).
+- 🔭 I’m currently working on [itai-lang](https://github.com/Itai-Nelken/itai-lang), a programming language I designed.
+- 🌱 I’m currently learning compiler design.
+- 💬 Ask me about anything Linux, open source, and programming related (especially C).
 - 📫 How to reach me: Open a new [issue](https://github.com/Itai-Nelken/Itai-Nelken/issues/new/choose) or [discussion](https://github.com/Itai-Nelken/Itai-Nelken/discussions/new) in this repository.
 <!--
 - 📫 How to reach me: Discord user Itai#2696 
